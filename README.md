@@ -1,1 +1,1 @@
-# skinali2
+# skinali
